@@ -1,0 +1,32 @@
+#logo{
+    border-radius: 50%;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+}
+.card{
+    background-color: #FFD6A5;
+    
+}
+#lit{
+  
+    border-color:#FF9B9B;
+}
+.cent{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+.exercise{
+    background-color: aquamarine;
+}
+body,html{
+ background-color:#A0BFE0;
+}
